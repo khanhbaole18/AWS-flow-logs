@@ -21,8 +21,7 @@ Go to Roles and click on <kbd>Create role</kbd>
 
 Leave “AWS service” selected and choose “EC2”
 
-![Untitled](<img width="619" alt="Untitled 1" src="https://github.com/khanhbaole18/AWS-flow-logs/assets/130804314/6eac5049-ae33-47b6-b260-36de7a9eb831">
-)
+<img width="619" alt="Untitled 1" src="https://github.com/khanhbaole18/AWS-flow-logs/assets/130804314/6eac5049-ae33-47b6-b260-36de7a9eb831">
 
 Click <kbd>Next</kbd>
 
