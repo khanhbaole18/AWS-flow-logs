@@ -8,9 +8,6 @@ We’re going to create two EC2 instances and diagnose a connectivity issue betw
 
 I will use ap-southeast-1 (Va) for this demo, but you can use any region you like. VPC Flow Logs are available in *all* regions.
 
-# Video Guide
-
-[HERE](https://youtu.be/4HvwQ1uoWEA)
 
 # Instructions
 
