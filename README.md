@@ -21,7 +21,7 @@ Go to Roles and click on <kbd>Create role</kbd>
 
 Leave “AWS service” selected and choose “EC2”
 
-![Untitled](Images-AWS-Flow-Logs/Untitled.png)
+![Untitled](images/Untitled.png)
 
 Click <kbd>Next</kbd>
 
